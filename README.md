@@ -27,4 +27,4 @@ The Python Library "openpyxl" must be installed. You can do this by running the 
 
 I have only been able to test this application on the Windows operating system, but it should work on any Operating System.
 
-Feel free to reach out to me with ideas, questions, or other comments regarding this project by opening an Issue or by email at flaskdoggo@gmail.com!
+Feel free to reach out to me with ideas, questions, or other comments regarding this project by opening an Issue!
